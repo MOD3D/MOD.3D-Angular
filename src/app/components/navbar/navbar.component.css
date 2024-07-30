@@ -1,0 +1,18 @@
+nav{
+    text-align: center;
+    margin-top: 10px;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+nav ul li a{
+    color: #178580;
+    text-decoration: none;
+}

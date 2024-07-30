@@ -1,0 +1,118 @@
+.mainContentLogin {
+    color: hsl(0, 0%, 100%);
+    padding: 20px 0;
+    height: 87vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.divMainLogin {
+    border-radius: 10%;
+    width: 80%;
+    height: 90%;
+    margin: 0 auto;
+}
+
+.imgLogo{
+    background-image: url("../../../assets/logo.png");
+}
+
+.imgContainer {
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.centrarDiv {
+    border-radius: 8%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+}
+
+.divCol {
+    height: 60vh;
+}
+
+.login-form{
+    height: 400px;
+    width: 400px;
+    
+}
+
+.msjBienvenida{
+    color: #BFA181;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.msjRegistro{
+    color: #178582;
+    padding: 2%;
+    float: right;
+    text-align: right;
+    font-size: 60%;
+    text-decoration: none;
+
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.redes button{
+    background-color: #178582;
+    color: #FFFF;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.test{
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    text-align: center;
+}
+.form-label{
+    color: #FFFF;
+}
+.form-control{
+    background-color: #0A1828;
+    color: #FFFF;
+    border: 1px solid #178582;
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+button[type="Submit"]{
+    background-color: #178582;
+    color: #FFFF;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+
